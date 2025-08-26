@@ -6,3 +6,34 @@ AH00558: httpd.exe: Could not reliably determine the server's fully qualified do
 AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::113:1fc8:1695:29ce. Set the 'ServerName' directive globally to suppress this message
 AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::113:1fc8:1695:29ce. Set the 'ServerName' directive globally to suppress this message
 [Tue Aug 26 13:49:54.134061 2025] [mpm_winnt:notice] [pid 17796:tid 216] AH00354: Child: Starting 64 worker threads.
+[Tue Aug 26 14:31:07.945099 2025] [mpm_winnt:notice] [pid 4968:tid 352] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Aug 26 14:31:09.970982 2025] [mpm_winnt:notice] [pid 17796:tid 216] AH00364: Child: All worker threads have exited.
+[Tue Aug 26 14:31:10.005782 2025] [mpm_winnt:notice] [pid 4968:tid 352] AH00430: Parent: Child process 17796 exited successfully.
+[Tue Aug 26 14:31:11.443726 2025] [mpm_winnt:notice] [pid 9900:tid 348] AH00455: Apache/2.4.63 (Win64) configured -- resuming normal operations
+[Tue Aug 26 14:31:11.444723 2025] [mpm_winnt:notice] [pid 9900:tid 348] AH00456: Apache Lounge VS17 Server built: Feb  3 2025 10:10:51
+[Tue Aug 26 14:31:11.444723 2025] [core:notice] [pid 9900:tid 348] AH00094: Command line: 'C:\\Users\\prof newtonlee\\OneDrive\\Desktop\\Almustapha_tech\\startup_inc\\Apache24\\bin\\httpd.exe -d C:/Users/prof newtonlee/OneDrive/Desktop/Almustapha_tech/startup_inc/Apache24'
+[Tue Aug 26 14:31:11.446718 2025] [mpm_winnt:notice] [pid 9900:tid 348] AH00418: Parent: Created child process 17492
+[Tue Aug 26 14:31:12.463671 2025] [mpm_winnt:notice] [pid 17492:tid 388] AH00354: Child: Starting 64 worker threads.
+[Tue Aug 26 14:33:17.803422 2025] [mpm_winnt:notice] [pid 9900:tid 348] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Aug 26 14:33:19.823805 2025] [mpm_winnt:notice] [pid 17492:tid 388] AH00364: Child: All worker threads have exited.
+[Tue Aug 26 14:33:19.851838 2025] [mpm_winnt:notice] [pid 9900:tid 348] AH00430: Parent: Child process 17492 exited successfully.
+[Tue Aug 26 14:33:26.870930 2025] [mpm_winnt:notice] [pid 7376:tid 356] AH00455: Apache/2.4.63 (Win64) configured -- resuming normal operations
+[Tue Aug 26 14:33:26.870930 2025] [mpm_winnt:notice] [pid 7376:tid 356] AH00456: Apache Lounge VS17 Server built: Feb  3 2025 10:10:51
+[Tue Aug 26 14:33:26.870930 2025] [core:notice] [pid 7376:tid 356] AH00094: Command line: 'C:\\Users\\prof newtonlee\\OneDrive\\Desktop\\Almustapha_tech\\startup_inc\\Apache24\\bin\\httpd.exe -d C:/Users/prof newtonlee/OneDrive/Desktop/Almustapha_tech/startup_inc/Apache24'
+[Tue Aug 26 14:33:26.874053 2025] [mpm_winnt:notice] [pid 7376:tid 356] AH00418: Parent: Created child process 6036
+[Tue Aug 26 14:33:27.546446 2025] [mpm_winnt:notice] [pid 6036:tid 412] AH00354: Child: Starting 64 worker threads.
+[Tue Aug 26 14:41:37.866374 2025] [mpm_winnt:notice] [pid 7376:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Aug 26 14:41:39.896554 2025] [mpm_winnt:notice] [pid 6036:tid 412] AH00364: Child: All worker threads have exited.
+[Tue Aug 26 14:41:39.926125 2025] [mpm_winnt:notice] [pid 7376:tid 356] AH00430: Parent: Child process 6036 exited successfully.
+[Tue Aug 26 14:41:41.365637 2025] [mpm_winnt:notice] [pid 15396:tid 172] AH00455: Apache/2.4.63 (Win64) configured -- resuming normal operations
+[Tue Aug 26 14:41:41.366634 2025] [mpm_winnt:notice] [pid 15396:tid 172] AH00456: Apache Lounge VS17 Server built: Feb  3 2025 10:10:51
+[Tue Aug 26 14:41:41.366634 2025] [core:notice] [pid 15396:tid 172] AH00094: Command line: 'C:\\Users\\prof newtonlee\\OneDrive\\Desktop\\Almustapha_tech\\startup_inc\\Apache24\\bin\\httpd.exe -d C:/Users/prof newtonlee/OneDrive/Desktop/Almustapha_tech/startup_inc/Apache24'
+[Tue Aug 26 14:41:41.369625 2025] [mpm_winnt:notice] [pid 15396:tid 172] AH00418: Parent: Created child process 11116
+[Tue Aug 26 14:41:42.275306 2025] [mpm_winnt:notice] [pid 11116:tid 364] AH00354: Child: Starting 64 worker threads.
+[Tue Aug 26 14:44:14.875196 2025] [mpm_winnt:notice] [pid 15396:tid 172] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Aug 26 14:44:16.904093 2025] [mpm_winnt:notice] [pid 11116:tid 364] AH00364: Child: All worker threads have exited.
+[Tue Aug 26 14:44:16.936053 2025] [mpm_winnt:notice] [pid 15396:tid 172] AH00430: Parent: Child process 11116 exited successfully.
+[Tue Aug 26 14:44:18.246917 2025] [mpm_winnt:notice] [pid 10280:tid 348] AH00455: Apache/2.4.63 (Win64) configured -- resuming normal operations
+[Tue Aug 26 14:44:18.247951 2025] [mpm_winnt:notice] [pid 10280:tid 348] AH00456: Apache Lounge VS17 Server built: Feb  3 2025 10:10:51
+[Tue Aug 26 14:44:18.247951 2025] [core:notice] [pid 10280:tid 348] AH00094: Command line: 'C:\\Users\\prof newtonlee\\OneDrive\\Desktop\\Almustapha_tech\\startup_inc\\Apache24\\bin\\httpd.exe -d C:/Users/prof newtonlee/OneDrive/Desktop/Almustapha_tech/startup_inc/Apache24'
+[Tue Aug 26 14:44:18.250236 2025] [mpm_winnt:notice] [pid 10280:tid 348] AH00418: Parent: Created child process 17692
