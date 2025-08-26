@@ -1,0 +1,7 @@
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::113:1fc8:1695:29ce. Set the 'ServerName' directive globally to suppress this message
+[Tue Aug 26 13:49:53.247874 2025] [mpm_winnt:notice] [pid 4968:tid 352] AH00455: Apache/2.4.63 (Win64) configured -- resuming normal operations
+[Tue Aug 26 13:49:53.248871 2025] [mpm_winnt:notice] [pid 4968:tid 352] AH00456: Apache Lounge VS17 Server built: Feb  3 2025 10:10:51
+[Tue Aug 26 13:49:53.248871 2025] [core:notice] [pid 4968:tid 352] AH00094: Command line: 'C:\\Users\\prof newtonlee\\OneDrive\\Desktop\\Almustapha_tech\\startup_inc\\Apache24\\bin\\httpd.exe -d C:/Users/prof newtonlee/OneDrive/Desktop/Almustapha_tech/startup_inc/Apache24'
+[Tue Aug 26 13:49:53.252421 2025] [mpm_winnt:notice] [pid 4968:tid 352] AH00418: Parent: Created child process 17796
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::113:1fc8:1695:29ce. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::113:1fc8:1695:29ce. Set the 'ServerName' directive globally to suppress this message
