@@ -9,4 +9,4 @@
 ##
 ## i chanage the servername from localhost to startup.inc i chnase it bot in window/system32/drivers/etc/host AND httdp.conf file'
 ## Alhamdullah
-## i successfully integrate to my apache web machine which will allow the web server to run php code
+## i successfully integrate PHP to my apache web machine which will allow the web server to run php code
